@@ -140,6 +140,7 @@ Matthew Burgos
 - [Joe Sluis](https://github.com/JoeS51)
 - [HARINAARAYANAN U](https://github.com/IamHarriiii)
 - [Wing Sun Au](https://github.com/WingSunAu)
+- [Angelo Camargo](https://github.com/anglobox)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
@@ -2113,3 +2114,4 @@ Matthew Burgos
 - [Bhanu Katoch](https://github.com/bhanu-katoch)
 - [Alexcarbi] (https://github.com/alexcarbi)
 - Delaksan Sritharan
+- [Jefferson Santos](https://github.com/jeff777-source)
