@@ -108,6 +108,7 @@ Matthew Burgos
 -[Deepthi](https://github.com/D-E-E-P-T-H-I)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
+- git switch -c <add joey_da_souza>(https://github.com/joeydasouza43S)
 - [Khushi Rajpurohit](https://github.com/kraj2003)
 - [Akshay Tiwari](https://github.com/AkshayTiwari222)
 - [Vidit](https://github.com/VIDIT-13)
